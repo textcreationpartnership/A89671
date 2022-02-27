@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevvs certain and terrible from the kingdom of Poland, being the copie of a letter, sent by Jerome Nicholas to a friend of his, dwelling at Gravesend. Relating how the Turke hath past the confines of the kingdom, with an almost invincible army: and what barbarity they use towards Christians in those parts, having gotten the upper hand.</title>
+            <author>Nicholas, Jerome, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89671</idno>
+            <idno type="STC">Wing N1082</idno>
+            <idno type="STC">Thomason E138_13</idno>
+            <idno type="STC">ESTC R13476</idno>
+            <idno type="EEBO-CITATION">99859479</idno>
+            <idno type="PROQUEST">99859479</idno>
+            <idno type="VID">156519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156519)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E138[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevvs certain and terrible from the kingdom of Poland, being the copie of a letter, sent by Jerome Nicholas to a friend of his, dwelling at Gravesend. Relating how the Turke hath past the confines of the kingdom, with an almost invincible army: and what barbarity they use towards Christians in those parts, having gotten the upper hand.</title>
+                  <author>Nicholas, Jerome, 17th cent.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter dated: 22 of Feb. 1641.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Władysław, --  King of Poland, 1595-1648.</term>
+               <term>Poland --  History --  Vladislaus IV Sigismund, 1632-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156519:1"/>
+            <pb facs="tcp:156519:1" rendition="simple:additions"/>
+            <p>NEVVS CERTAIN AND TERRIBLE FROM THE KINGDOM OF POLAND, BEING The Copie of a Letter, ſent by <hi>Jerome Ni<g ref="char:EOLhyphen"/>cholas</hi> to a friend of his, dwelling at <hi>Graveſend.</hi>
+            </p>
+            <p>Relating how the <hi>Turke</hi> hath paſt the Confines of the Kingdom, with an almoſt invincible Army: and what barbarity they uſe towards Chriſtians in thoſe parts, having gotten the upper hand.</p>
+            <q>Nunc tua res agitur paries dum proxim<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ardet.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Andrew C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156519:2"/>
+            <pb n="3" facs="tcp:156519:2"/>
+            <opener>
+               <salute>Deare Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">R</seg>Eceiving from you Letters at all occaſions, wherein you certifie me how all matters go in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> it ſhould be a very unkind part in me, not to write backe ſomething to you, although it did concern you nothing; yet that which I write to you now concerns not you onely, but alſo everie good Chriſtian. Know therefore good Sir, that upon the twentieth ſixth day of <hi>January,</hi> the great <hi>Turke</hi> having ever in his heart a grudge a<g ref="char:EOLhyphen"/>gainſt the <hi>Polanders,</hi> for ancient quarrels, deter<g ref="char:EOLhyphen"/>mining now alſo to be revenged, when a great part of his Forces are imployed elſewhere, gather<g ref="char:EOLhyphen"/>ed together above fourtie thouſand of his moſt expert Souldiers, being to the number of eighteen thouſand <hi>Janizaries,</hi> in whom conſiſteth his chief ſtrength, and two and twentie thouſand <hi>Timariots,</hi> which are horſemen lightly armed, for the moſt part, imployed in forraging, and in pil<g ref="char:EOLhyphen"/>laging
+<pb n="4" facs="tcp:156519:3"/>of the Countrey, where the <hi>Turke</hi> doth maintain any warre, theſe paſſed on above four<g ref="char:EOLhyphen"/>teen Leagues in the Countrey, making havocke of the poore people all the way as they went, ſpa<g ref="char:EOLhyphen"/>ring neither young nor old rich nor poore, but ſweeping all away with a moſt bloodie maſſacre: uſing alſo extraordinarie torments to thoſe that would not immediately abjure the Chriſtian Re<g ref="char:EOLhyphen"/>ligion, binding them to poſts, and then circum<g ref="char:EOLhyphen"/>ciſing them<g ref="char:punc">▪</g> At <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>runſtad</hi> a little Village neer to our Citie, the Lieutenant Generall with five thou<g ref="char:EOLhyphen"/>ſand horſemen, gave the <hi>Timariots</hi> battell, which was upon the twentie eight day of <hi>January</hi> laſt paſt, but being oppreſt with their number, he was forced to flie, having loſt but a few of his men, leaving all the ground beſtrewed with the dead bodies of the Turkiſh horſemen; Having himſelf alſo received one dangerous wound in the right ſide, with a Launce, but we hope he will ſhortly recover; for the reſt of his wounds are nothing ſo dangerous. And indeed if he did not, we ſhould find great want of him; for to ſpeak the truth, he is an excellent man, and verie expert in all manner of Militarie Diſcipline, and in many Battels fought againſt the <hi>Turke</hi> he hath
+<pb n="5" facs="tcp:156519:3"/>approved himſelfe very valiant to his King and Countrey.</p>
+            <p>But to returne to the Turkiſh Armie, they be<g ref="char:EOLhyphen"/>ing proud of this deare bought victory, and vow<g ref="char:EOLhyphen"/>ing ſharpe revenge, marcht ſtill on towards the Citie in which wee now remaine, killing every one that had not fled to the next Towne, with ex<g ref="char:EOLhyphen"/>treame tortures; it being thought a ſport amongſt the Turks, to rip up womens bellies with their Scimitaries, and to carrie young children upon the top of their Launces, ſpringing with bloud. They have approached our Citie, and lie verie neere to it ſtrongly entrenched, and have plan<g ref="char:EOLhyphen"/>ted five Canon and ſix Demi-Canon againſt the walls of the Citie, and they threw every houre over our walls hot burning Granadoes, which (bleſt be God) by reaſon of our watchfulneſſe and care, doe no great harme; onely a woman as ſhee was paſſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g the ſtreete, with her childe in her armes, both ſhee and the poore infant were killed by the unhappie fall of a Granadoe.</p>
+            <p>Wee kill every day both with ſmall ſhot and great, huge numbers of that unhallowed packe, eſpecially at their laſt aſſault; where by reaſona<g ref="char:EOLhyphen"/>ble computation, there was found to have dyed
+<pb n="6" facs="tcp:156519:4"/>a thouſand in leſſe than three houres. Out Towne is very ſtrong, God be praiſed, and our Souldiers are couragious enough, eſpecially the Inhabitants, as they have beſt reaſon, they being ſure to looſe their houſes and fortunes, (if the Towne be taken) if not their lives withall. Out Towne hath endu<g ref="char:EOLhyphen"/>red the Siege at leaſt twenty-two dayes now, and our walls are mightily battered, I beſeech God to ſend us ſpeedy and ſtrong ſuccour, and let us rather have any miſchance, than to fall into the hands of thoſe cruell and ſavage people. For our Governour hath beene divers times called to a parlie with their Captaine, and had articles deli<g ref="char:EOLhyphen"/>vered to him, to which agreeing he ſhould yeeld the Towne. But having ſhewed them the Soul<g ref="char:EOLhyphen"/>diers and Townſmen, they all drew their ſwords, and ſwore they would rather die than accept of any ſuch conditions.</p>
+            <p>The Articles are theſe;
+<list>
+                  <item>Firſt, That every one of the Townſmen and Souldiers, ſhould deliver up their weapons and ammunition and victualling.</item>
+                  <item>Secondly, That they ſhould goe out of the Citie with ropes about their necks, and their hands bound behind them, in token of ſubmiſſi<g ref="char:EOLhyphen"/>on, all except the Governour.</item>
+                  <pb n="7" facs="tcp:156519:4"/>
+                  <item>Thirdly, That they ſhould leave their wives and children and goods behind them: and carry nothing with them but one ſuite of clothes, and one paire of ſhooes with them.</item>
+                  <item>Fourthly, That they ſhould ſweare by <hi>Maho<g ref="char:EOLhyphen"/>met</hi> never to ſerve the King againe.</item>
+                  <item>Fifthly, That they ſhould all be markt in the forehead.</item>
+               </list>
+            </p>
+            <p>Theſe are the Articles; The bearer is in great haſte, being in danger to be ſurpriſed by the Turkes Scouts, if he ſtay till breake of day.</p>
+            <p>Farewell; Remember mee to my wife and children, tell them that I am in health; but by no means relate to her in what danger I am in; ſo committing you to God, I reſt</p>
+            <closer>
+               <dateline>
+                  <hi>Halberſtad</hi> 
+                  <date>the 22 of <hi>Feb.</hi> 1641.</date>
+               </dateline>
+               <signed>Your moſt obſequious friend, <hi>IEROME NICHOLAS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
